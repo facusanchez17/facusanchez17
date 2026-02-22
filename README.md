@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Facundo Sánchez  
+# Hi there! 👋 I'm Facundo Sanchez  
 
 🎓 Advanced Computer Systems Engineering Student  
 💻 Passionate about web development, databases, and emerging technologies.  
@@ -45,7 +45,7 @@ Web solution for managing mechanical workshops, oil change services, and vehicle
 ## 🌍 Languages  
 
 - **Spanish:** Native  
-- **English:** A2 level, currently improving my skills through corporate training at Xcapit  
+- **English:** B1 level, currently improving my skills through corporate training at Xcapit  
 
 ---
 
@@ -54,7 +54,7 @@ Web solution for managing mechanical workshops, oil change services, and vehicle
 📧 **Email:** facusanchez105@gmail.com  
 📱 **WhatsApp:** [Send a message](https://wa.me/3534292557)  
 🌐 **Portfolio:** [sanchezfacundo-portfolio.vercel.app](https://sanchezfacundo-portfolio.vercel.app/)  
-💼 **LinkedIn:** *(add here if available)*  
+💼 **LinkedIn:** [Visit my Linkedin profile](https://www.linkedin.com/in/facundo-sanchez-ab88111a9/)
 
 ---
 
